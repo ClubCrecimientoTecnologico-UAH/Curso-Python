@@ -1,0 +1,3 @@
+# INTRODUCCIÓN A PYTHON
+Es un lenguaje de programación interpretado de propósito general conocido por su sintaxis clara, legible y sencilla de entender para principiantes en la programación.
+Python fue creado a finales de los años 80 por Guido van Rossum en el Instituto de Investigación CWI en los Países Bajos y fue lanzado por primera vez en 1991. El lenguaje fue diseñado con la filosofía de enfatizar la legibilidad del código y la simplicidad.
