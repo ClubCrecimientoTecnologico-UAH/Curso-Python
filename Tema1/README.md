@@ -2,7 +2,9 @@
 1. [¿Qué es?](#qué-es)
 2. [¿Para qué se usa?](#para-qué-se-usa)
 3. [¿Por qué Python?](#por-qué-python)
+   
 ---
+
 # ¿Qué es?
 Python es un lenguaje de programación de alto nivel, interpretado, multiparadigma (soporta programación orientada a objetos, estructurada y funcional) y de propósito general. Fue creado por Guido van Rossum en 1991 como un proyecto personal durante las vacaciones de Navidad de 1989, inspirado en lenguajes como ABC y con un nombre que rinde homenaje al grupo de comedia británico Monty Python.
 Desde entonces, Python ha evolucionado hasta convertirse en uno de los lenguajes más populares del mundo, gracias a su sencillez, legibilidad y amplia gama de aplicaciones, desde desarrollo web hasta inteligencia artificial.
@@ -35,7 +37,9 @@ Programación Estructurada: Uso de funciones y módulos.
 Programación Funcional: Soporta funciones lambda, map, filter, etc.
 ✔ Extensible y con Amplio Ecosistema
 Python puede integrarse con otros lenguajes como C, C++ o Java. Además, cuenta con un enorme repositorio de librerías (PyPI) que permiten expandir sus funcionalidades.
+
 ---
+
 # ¿PARA QUÉ SE USA?
 🌐 Internet y Servicios Web
 Python es la columna vertebral de muchos servicios en línea que usamos a diario:
@@ -71,7 +75,9 @@ Aunque no es el rey de los juegos AAA, Python tiene su espacio:
 Prototipado rápido: Con Pygame o Panda3D.
 Herramientas para game design: Autodesk Maya (animación 3D) integra Python para scripts.
 📌 Dato: Battlefield 2 usó Python para lógica de juego y menús.
+
 ---
+
 # ¿POR QUÉ PYTHON?
 Python se ha convertido en uno de los lenguajes de programación más populares del mundo, y no es por casualidad. Su diseño, filosofía y versatilidad lo hacen ideal para principiantes, profesionales y grandes empresas. A continuación, te explico las razones clave por las que deberías considerar Python como tu lenguaje de programación.
 ## Es Fácil de Aprender y Enseñar
