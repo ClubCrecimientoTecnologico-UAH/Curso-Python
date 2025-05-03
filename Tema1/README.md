@@ -44,23 +44,23 @@ Python puede integrarse con otros lenguajes como C, C++ o Java. Además, cuenta 
 - 🌐 Internet y Servicios Web
 Python es la columna vertebral de muchos servicios en línea que usamos a diario: Motores de búsqueda: Google (partes de su infraestructura) y YouTube (antes de migrar parcialmente a Go). Redes sociales: Instagram (backend en Django), Pinterest y Reddit. Almacenamiento en la nube: Dropbox (lo usó en su backend por años) y AWS (herramientas de automatización). APIs y microservicios: Gracias a frameworks como Flask y FastAPI.
 📌 Ejemplo: Cuando subes una foto a Instagram, Python ayuda a procesarla y almacenarla.
-🛠️ Herramientas de Desarrollo y DevOps
+- 🛠️ Herramientas de Desarrollo y DevOps
 Automatización de despliegues: Herramientas como Ansible y SaltStack están escritas en Python. Testing y QA: Librerías como pytest y Selenium automatizan pruebas de software. Integración continua: Plataformas como Jenkins usan scripts en Python para gestionar pipelines.
 📌 Dato clave: Muchos desarrolladores usan Python para escribir scripts que simplifican tareas repetitivas.
-📊 Ciencia de Datos e Inteligencia Artificial
+- 📊 Ciencia de Datos e Inteligencia Artificial
 Python domina en análisis de datos, machine learning e IA: Análisis de datos: Librerías como Pandas y NumPy son estándares en la industria. Visualización: Matplotlib y Seaborn crean gráficos profesionales. Machine Learning: TensorFlow (Google) y PyTorch (Meta) usan Python como interfaz principal. Big Data: PySpark (de Apache Spark) procesa grandes volúmenes de datos.
 📌 Ejemplo: Netflix recomienda películas usando algoritmos escritos en Python.
-🔬 Investigación Científica y Académica
+- 🔬 Investigación Científica y Académica
 Simulaciones y cálculos complejos: Científicos reemplazaron herramientas como MATLAB por Python (con SciPy).
 Bioinformática: Analiza secuencias de ADN con Biopython.
 Física y astronomía: La NASA usa Python para procesar datos de telescopios.
 📌 Dato curioso: El primer agujero negro fotografiado (2019) se analizó con Python.
-⚙️ Automatización y Scripting
+- ⚙️ Automatización y Scripting
 Robótica: Raspberry Pi y robots educativos (como los de LEGO Mindstorms) se programan en Python.
 Web scraping: Extraer datos de páginas web con BeautifulSoup o Scrapy.
 Automatización de oficina: Librerías como openpyxl manipulan archivos de Excel.
 📌 Ejemplo: Periodistas usan Python para recolectar datos y generar visualizaciones.
-🎮 Desarrollo de Juegos y Gráficos
+- 🎮 Desarrollo de Juegos y Gráficos
 Aunque no es el rey de los juegos AAA, Python tiene su espacio:
 Prototipado rápido: Con Pygame o Panda3D.
 Herramientas para game design: Autodesk Maya (animación 3D) integra Python para scripts.
