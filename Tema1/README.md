@@ -20,9 +20,9 @@ else:
 Comparado con otros lenguajes como Java o C++, Python reduce la cantidad de código necesario para realizar las mismas tareas.
 - ✔ Lenguaje Interpretado
 A diferencia de C++ o Java, Python no necesita ser compilado antes de ejecutarse. El intérprete de Python lee y ejecuta el código línea por línea, lo que permite:
-- Desarrollo más rápido (sin tiempos de compilación).
-- Mayor flexibilidad (puede ejecutarse en múltiples plataformas sin cambios).
-- Modo interactivo (ideal para pruebas y aprendizaje).
+   - Desarrollo más rápido (sin tiempos de compilación).
+   - Mayor flexibilidad (puede ejecutarse en múltiples plataformas sin cambios).
+   - Modo interactivo (ideal para pruebas y aprendizaje).
 - ✔ Tipado Dinámico
 No es necesario declarar el tipo de una variable, Python lo infiere automáticamente:
 ```PYTHON
