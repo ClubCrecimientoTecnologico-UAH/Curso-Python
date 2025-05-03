@@ -9,7 +9,7 @@
 Python es un lenguaje de programación de alto nivel, interpretado, multiparadigma (soporta programación orientada a objetos, estructurada y funcional) y de propósito general. Fue creado por Guido van Rossum en 1991 como un proyecto personal durante las vacaciones de Navidad de 1989, inspirado en lenguajes como ABC y con un nombre que rinde homenaje al grupo de comedia británico Monty Python.
 Desde entonces, Python ha evolucionado hasta convertirse en uno de los lenguajes más populares del mundo, gracias a su sencillez, legibilidad y amplia gama de aplicaciones, desde desarrollo web hasta inteligencia artificial.
 Características Clave
-✔ Sintaxis Clara y Legible
+- ✔ Sintaxis Clara y Legible
 Python utiliza una estructura basada en indentación (sangrías) en lugar de llaves {}, lo que lo hace más limpio y fácil de entender. Por ejemplo:
 ```PYTHON
 if edad >= 18:
@@ -18,12 +18,12 @@ else:
     print("Menor de edad")
 ```
 Comparado con otros lenguajes como Java o C++, Python reduce la cantidad de código necesario para realizar las mismas tareas.
-✔ Lenguaje Interpretado
+- ✔ Lenguaje Interpretado
 A diferencia de C++ o Java, Python no necesita ser compilado antes de ejecutarse. El intérprete de Python lee y ejecuta el código línea por línea, lo que permite:
 - Desarrollo más rápido (sin tiempos de compilación).
 - Mayor flexibilidad (puede ejecutarse en múltiples plataformas sin cambios).
 - Modo interactivo (ideal para pruebas y aprendizaje).
-✔ Tipado Dinámico
+- ✔ Tipado Dinámico
 No es necesario declarar el tipo de una variable, Python lo infiere automáticamente:
 ```PYTHON
 numero = 10          # Entero (int)
@@ -31,11 +31,11 @@ nombre = "Python"    # String (str)
 es_activo = True     # Booleano (bool)
 ```
 Esto facilita la escritura de código, aunque requiere más cuidado en el manejo de tipos.
-✔ Multiparadigma
+- ✔ Multiparadigma
 Orientado a Objetos (POO): Permite crear clases y objetos.
 Programación Estructurada: Uso de funciones y módulos.
 Programación Funcional: Soporta funciones lambda, map, filter, etc.
-✔ Extensible y con Amplio Ecosistema
+- ✔ Extensible y con Amplio Ecosistema
 Python puede integrarse con otros lenguajes como C, C++ o Java. Además, cuenta con un enorme repositorio de librerías (PyPI) que permiten expandir sus funcionalidades.
 
 ---
