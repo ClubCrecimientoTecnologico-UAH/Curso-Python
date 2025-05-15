@@ -10,6 +10,7 @@ Python es un lenguaje de programación de alto nivel, interpretado, multiparadig
 Desde entonces, Python ha evolucionado hasta convertirse en uno de los lenguajes más populares del mundo, gracias a su sencillez, legibilidad y amplia gama de aplicaciones, desde desarrollo web hasta inteligencia artificial.
 
 ![Guido Van Rossum](./media/GuidoVanRossum.png)
+> La imágen proviene del curso de [Fundamentos de Python de Cisco](https://www.netacad.com/courses/python-essentials-1?courseLang=es-XL) 
 ## *Características Clave:*
 ✔ **Sintaxis Clara y Legible:** Python utiliza una estructura basada en indentación (sangrías) en lugar de llaves {}, lo que lo hace más limpio y fácil de entender. Por ejemplo:
 ```PYTHON
