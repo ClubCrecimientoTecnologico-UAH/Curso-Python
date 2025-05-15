@@ -91,9 +91,9 @@ Esto facilita la escritura de código, aunque requiere más cuidado en el manejo
 # ¿POR QUÉ PYTHON?
 Python se ha convertido en uno de los lenguajes de programación más populares del mundo, y no es por casualidad. Su diseño, filosofía y versatilidad lo hacen ideal para principiantes, profesionales y grandes empresas. A continuación, te explico las razones clave por las que deberías considerar Python como tu lenguaje de programación.
 ## 1. Es Fácil de Aprender y Enseñar
-✅ Curva de aprendizaje rápida → Python tiene una sintaxis clara y cercana al lenguaje humano, lo que permite escribir código funcional en poco tiempo.
-✅ Ideal para principiantes → No requiere conocimientos avanzados para empezar, a diferencia de lenguajes como C++ o Java.
-✅ Perfecto para la enseñanza → Los profesores pueden enfocarse en conceptos fundamentales de programación en lugar de detalles técnicos complejos.
+✅ Curva de aprendizaje rápida → Python tiene una sintaxis clara y cercana al lenguaje humano, lo que permite escribir código funcional en poco tiempo.<br>
+✅ Ideal para principiantes → No requiere conocimientos avanzados para empezar, a diferencia de lenguajes como C++ o Java.<br>
+✅ Perfecto para la enseñanza → Los profesores pueden enfocarse en conceptos fundamentales de programación en lugar de detalles técnicos complejos.<br>
 Ejemplo:
 ```PYTHON
 if edad >= 18:
@@ -101,9 +101,9 @@ if edad >= 18:
 ```
 Comparado con otros lenguajes, Python evita símbolos innecesarios ({}, ;), haciendo el código más limpio.
 ## 2. Es Productivo y Eficiente
-✅ Desarrollo más rápido → Permite escribir programas con menos líneas de código que Java, C++ o JavaScript.
-✅ Menos errores → Al ser interpretado, detecta problemas en tiempo de ejecución sin necesidad de compilación previa.
-✅ Gran legibilidad → El código de Python es fácil de entender, incluso si no lo escribiste tú.
+✅ Desarrollo más rápido → Permite escribir programas con menos líneas de código que Java, C++ o JavaScript.<br>
+✅ Menos errores → Al ser interpretado, detecta problemas en tiempo de ejecución sin necesidad de compilación previa.<br>
+✅ Gran legibilidad → El código de Python es fácil de entender, incluso si no lo escribiste tú.<br>
 Ejemplo:
 ```PYTHON
 # Sumar elementos de una lista
@@ -111,22 +111,22 @@ suma = sum([1, 2, 3, 4, 5])
 ```
 En otros lenguajes, esto requeriría bucles y más código.
 ## 3. Tiene una Gran Comunidad y Librerías
-✅ Miles de bibliotecas gratuitas (PyPI) para casi cualquier necesidad.
-✅ Soporte constante → Python tiene actualizaciones frecuentes y una comunidad activa.
-✅ Documentación extensa → Ideal para resolver dudas rápidamente.
+✅ Miles de bibliotecas gratuitas (PyPI) para casi cualquier necesidad.<br>
+✅ Soporte constante → Python tiene actualizaciones frecuentes y una comunidad activa.<br>
+✅ Documentación extensa → Ideal para resolver dudas rápidamente.<br>
 📌 Ejemplos de librerías útiles:
 - requests → Para hacer peticiones HTTP.
 - matplotlib → Para gráficos y visualización de datos.
 - selenium → Para automatización web.
 ## 4. Es Gratuito, Abierto y Multiplataforma
-✅ No hay que pagar licencias → Python es de código abierto (open source).
-✅ Funciona en Windows, Linux y macOS sin cambios en el código.
-✅ Fácil de instalar → Con herramientas como pip, instalar librerías es muy sencillo.
+✅ No hay que pagar licencias → Python es de código abierto (open source).<br>
+✅ Funciona en Windows, Linux y macOS sin cambios en el código.<br>
+✅ Fácil de instalar → Con herramientas como pip, instalar librerías es muy sencillo.<br>
 ## 5. ¿Cuándo NO usar Python?
-Aunque es muy versátil, Python no es la mejor opción en algunos casos:
-❌ Programación de bajo nivel (drivers, sistemas embebidos).
-❌ Aplicaciones móviles nativas (aunque hay opciones como Kivy, no es tan común como Swift o Kotlin).
-❌ Procesos que requieren máximo rendimiento (Python es más lento que C++ o Rust).
+Aunque es muy versátil, Python no es la mejor opción en algunos casos:<br>
+❌ Programación de bajo nivel (drivers, sistemas embebidos).<br>
+❌ Aplicaciones móviles nativas (aunque hay opciones como Kivy, no es tan común como Swift o Kotlin).<br>
+❌ Procesos que requieren máximo rendimiento (Python es más lento que C++ o Rust).<br>
 
 ---
 
