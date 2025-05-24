@@ -1,14 +1,14 @@
 # LENGUAJES DE PROGRAMACIÓN, SINTAXIS Y PYTHON 🐍
 1. [INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN](#introducción-a-los-lenguajes-de-programación)
-  1.1 [Código Binario](#código-binario)
-  1.2 [Lenguajes de Programación](#lenguajes-de-programación)
+  - [Código Binario](#código-binario)
+  - [Lenguajes de Programación](#lenguajes-de-programación)
 2. [LENGUAJE DE PROGRAMACIÓN PYTHON](#lenguaje-de-programación-python)
-  2.1 [Entornos de desarrollo Python](#entornos-de-desarrollo-python)
-  2.2 [Sintaxis de Python](#sintaxis-de-python)
+  - [Entornos de desarrollo Python](#entornos-de-desarrollo-python)
+  - [Sintaxis de Python](#sintaxis-de-python)
 3. [DIFERENCIAS CON OTROS LENGUAJES](#diferencias-con-otros-lenguajes)
-  3.1 [Bloques de código](#bloques-de-código)
-  3.2 [Fin de una instrucción](#fin-de-una-instrucción)
-  3.3 [Declaración de variables](#declaración-de-variables)
+  - [Bloques de código](#bloques-de-código)
+  - [Fin de una instrucción](#fin-de-una-instrucción)
+  - [Declaración de variables](#declaración-de-variables)
 
 ---
 
@@ -64,7 +64,6 @@ A su vez, los lenguajes de programación utilizan dos enfoques principales para 
     - Python
     - JavaScript
     - Ruby
-<br>
 - ***Compilado:***
     Los lenguajes compilados realizan una traducción completa del código a lenguaje máquina y dejan un ejecutable del programa. Siguiendo el ejemplo anterior, este sería un traductor que traduce completamente un documento o un libro y lo deja para que pueda ser leido cuantas veces quiera sin necesidad de traducir otra vez. <br>
     Cabe mencionar que, esto reduce la portabilidad del programa, pues la traducción a lenguaje máquina es diferente en cada computadora, por lo tanto el código debe ser compilado en cada máquina donde se quiera ejecutar (Aunque existen lenguajes compilados modernos que pueden generar binarios para múltiples plataformas sin recompilar en cada máquina, como por ejemplo Go), pero en cambio los programas se ejecutan más rápido porque ya fue traducido completamente, a diferencia de los interpretados. <br>
