@@ -63,3 +63,6 @@ int x = 10; // Siempre será un número entero
   - Python (POO + funcional).
   - JavaScript (POO + funcional + prototipado).
   - C++ (POO + estructurado + genéricos).
+  
+<br>
+
