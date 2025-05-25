@@ -1,11 +1,9 @@
 # EL PRIMER PROGAMA EN PYTHON 🐍
-- [EL PRIMER PROGAMA EN PYTHON 🐍](#el-primer-progama-en-python-)
-- [ESCRIBIENDO EL PRIMER PROGRAMA](#escribiendo-el-primer-programa)
-- [INICIANDO EN VISUAL STUDIO CODE](#iniciando-en-visual-studio-code)
-  - [Instalación de Visual Studio Code](#instalación-de-visual-studio-code)
-- [EL PRIMER HOLA MUNDO](#el-primer-hola-mundo)
-- [¿QUÉ SE PUEDE HACER AHORA?](#qué-se-puede-hacer-ahora)
-
+1. [ESCRIBIENDO EL PRIMER PROGRAMA](#escribiendo-el-primer-programa)
+2. [INICIANDO EN VISUAL STUDIO CODE](#iniciando-en-visual-studio-code)
+   - 2.1 [Instalación de Visual Studio Code](#instalación-de-visual-studio-code)
+3. [EL PRIMER HOLA MUNDO](#el-primer-hola-mundo)
+4. [¿QUÉ SE PUEDE HACER AHORA?](#qué-se-puede-hacer-ahora)
 ---
 
 # ESCRIBIENDO EL PRIMER PROGRAMA
@@ -19,16 +17,26 @@ Como ya se mencionó en la sección anterior, la instalación básica de Python 
      - Depuración básica
 
 Este ultimo se puede utilizar para escribir código o probar el interprete. Solo tienes que ejecutarlo 
+
 ![Ejecutable IDLE](media/ejecutable-IDLE.png)
+
 Y te encontraras con la siguiente ventana
+
 ![Inicio IDLE](media/IDLE-inicio.png)
+
 Este es el interprete de Python y puedes ejecutar código en este:
+
 ![codigo en el interprete en IDLE](Media/interprete-IDLE.png)
+
 Como se puede apreciar, al escribir algo y darle enter automáticamente interpreta la línea e imprime el resultado. 
 Este interprete también se puede ejecutar desde una terminal escribiendo Python (o Python3 en Linux)
+
 ![interprete en terminal](media/interprete-cmd.png)
+
 Si se quiere escribir más código entonces te tienes que dirigir a `File -> New File` y abrirá una ventana adicional que funciona como un editor de texto especializado para escribir código Python
+
 ![interprete con archivo](media/interprete-mas-archivo.png)
+
 En este mismo se puede escribir varias líneas de código y luego se ejecutar en el interprete. Por ejemplo escribir 
 
 ```PYTHON
