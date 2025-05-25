@@ -1,15 +1,16 @@
 # LENGUAJES DE PROGRAMACIÓN, SINTAXIS Y PYTHON 🐍
-- [LENGUAJES DE PROGRAMACIÓN, SINTAXIS Y PYTHON 🐍](#lenguajes-de-programación-sintaxis-y-python-)
-- [INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN](#introducción-a-los-lenguajes-de-programación)
-  - [Código Binario](#código-binario)
-  - [Lenguajes de Programación](#lenguajes-de-programación)
-- [LENGUAJE DE PROGRAMACIÓN PYTHON](#lenguaje-de-programación-python)
-  - [Entornos de desarrollo Python](#entornos-de-desarrollo-python)
-  - [Sintaxis de Python](#sintaxis-de-python)
-- [DIFERENCIAS CON OTROS LENGUAJES](#diferencias-con-otros-lenguajes)
-  - [Bloques de código](#bloques-de-código)
-  - [Fin de una instrucción](#fin-de-una-instrucción)
-  - [Declaración de variables](#declaración-de-variables)
+1. [INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN](#introducción-a-los-lenguajes-de-programación)
+   - 1.1 [Código Binario](#código-binario)
+   - 1.2 [Lenguajes de Programación](#lenguajes-de-programación)
+
+2. [LENGUAJE DE PROGRAMACIÓN PYTHON](#lenguaje-de-programación-python)
+   - 2.1 [Entornos de desarrollo Python](#entornos-de-desarrollo-python)
+   - 2.2 [Sintaxis de Python](#sintaxis-de-python)
+
+3. [DIFERENCIAS CON OTROS LENGUAJES](#diferencias-con-otros-lenguajes)
+   - 3.1 [Bloques de código](#bloques-de-código)
+   - 3.2 [Fin de una instrucción](#fin-de-una-instrucción)
+   - 3.3 [Declaración de variables](#declaración-de-variables)
 ---
 
 # INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN
