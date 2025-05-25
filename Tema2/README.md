@@ -1,14 +1,16 @@
 # LENGUAJES DE PROGRAMACI√ìN, SINTAXIS Y PYTHON üêç
-1. [INTRODUCCI√ìN A LOS LENGUAJES DE PROGRAMACI√ìN](#introducci√≥n-a-los-lenguajes-de-programaci√≥n)
-  - [C√≥digo Binario](#c√≥digo-binario)
-  - [Lenguajes de Programaci√≥n](#lenguajes-de-programaci√≥n)
-2. [LENGUAJE DE PROGRAMACI√ìN PYTHON](#lenguaje-de-programaci√≥n-python)
-  - [Entornos de desarrollo Python](#entornos-de-desarrollo-python)
-  - [Sintaxis de Python](#sintaxis-de-python)
+1. [INTRODUCCI®ÆN A LOS LENGUAJES DE PROGRAMACI®ÆN](#introducci®Æn-a-los-lenguajes-de-programaci®Æn)
+   - 1.1 [C®Ædigo Binario](#c®Ædigo-binario)
+   - 1.2 [Lenguajes de Programaci®Æn](#lenguajes-de-programaci®Æn)
+
+2. [LENGUAJE DE PROGRAMACI®ÆN PYTHON](#lenguaje-de-programaci®Æn-python)
+   - 2.1 [Entornos de desarrollo Python](#entornos-de-desarrollo-python)
+   - 2.2 [Sintaxis de Python](#sintaxis-de-python)
+
 3. [DIFERENCIAS CON OTROS LENGUAJES](#diferencias-con-otros-lenguajes)
-  - [Bloques de c√≥digo](#bloques-de-c√≥digo)
-  - [Fin de una instrucci√≥n](#fin-de-una-instrucci√≥n)
-  - [Declaraci√≥n de variables](#declaraci√≥n-de-variables)
+   - 3.1 [Bloques de c®Ædigo](#bloques-de-c®Ædigo)
+   - 3.2 [Fin de una instrucci®Æn](#fin-de-una-instrucci®Æn)
+   - 3.3 [Declaraci®Æn de variables](#declaraci®Æn-de-variables)
 
 ---
 
@@ -104,7 +106,6 @@ Un programa Python puede crearse en cualquier editor de texto b√°sico (como Note
      - Editor con resaltado de sintaxis
      - Consola interactiva
      - Depuraci√≥n b√°sica
-<br>
 2. **IDEs Avanzados:**
 
 | Entorno | Ventajas | Ideal para |
@@ -121,7 +122,7 @@ Un programa Python puede crearse en cualquier editor de texto b√°sico (como Note
 ## Sintaxis de Python
 Python se destaca por su sintaxis limpia y minimalista, dise√±ada para priorizar la legibilidad del c√≥digo. Estas son sus caracter√≠sticas principales:
 
-***Comentarios***
+***Comentarios*** <br>
 Los comentarios son parte del c√≥digo que el interprete ignora y no ejecuta lo que se encuentra adentro. Estos son muy importante para hacer el c√≥digo m√°s legible y a ayudar a identificar de mejor manera cada bloque del c√≥digo. En python, los comentarios empiezan con un hash o hashtag (#) 
 ```PYTHON
 # Este es el primer comentario
@@ -135,11 +136,11 @@ de multiples
 lineas'''
 ```
 
-***Variables***
+***Variables*** <br>
 Las variables son datos que se guardan en la memoria del computador. Las variables hacen referencia a la direcci√≥n de la memoria donde est√° ubicado el dato que guarda. No se permiten n√∫meros, caracteres especiales o guiones al inicio de los nombres de una variable. 
 Una variable puede tener nombres cortos, como x, y, z, pero es recomendable usar nombres descriptivos: `primernombre`, `apellido`, `edad`, `pais`.
 
-*Reglas para nombre variables en Python:*
+*Reglas para nombre variables en Python:* <br>
 - Las variables no pueden tener espacios 
 - Los nombres de las variables deben empezar con una letra o con un guion bajo
 - Los nombres de las variables no pueden empezar con un numero
@@ -173,7 +174,7 @@ num-1
 1num
 ```
 
-***Convenci√≥n de nombres***
+***Convenci√≥n de nombres*** <br>
 Una convenci√≥n es una practica que siguen todos los programadores para hacer m√°s f√°cil el entender un c√≥digo de Python sin importar el √°rea que trabajemos o el pa√≠s de donde vengamos. Es b√°sicamente un est√°ndar
 
 | Nombre convenci√≥n | Ejemplo | Uso com√∫n |
@@ -183,7 +184,7 @@ Una convenci√≥n es una practica que siguen todos los programadores para hacer m√
 | SCREAMING_SNAKE_CASE | FECHA_DE_NACIMIENTO | Se usa para constantes |
 | kebab-case | fecha-de-nacimiento | Se usa para URL |
 
-***Indentaci√≥n Obligatoria:***
+***Indentaci√≥n Obligatoria:*** <br>
 Python utiliza sangr√≠as (espacios o tabs) para definir bloques de c√≥digo
 ```PYTHON
 # Python
@@ -192,8 +193,6 @@ if 5 > 2:
     
 print("Esto ya no forma parte del if")
 ```
-
-
 
 ---
 
