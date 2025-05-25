@@ -26,7 +26,7 @@ Y te encontraras con la siguiente ventana
 
 Este es el interprete de Python y puedes ejecutar código en este:
 
-![codigo en el interprete en IDLE](Media/interprete-IDLE.png)
+![codigo en el interprete en IDLE](media/interprete-IDLE.png)
 
 Como se puede apreciar, al escribir algo y darle enter automáticamente interpreta la línea e imprime el resultado. 
 Este interprete también se puede ejecutar desde una terminal escribiendo Python (o Python3 en Linux)
