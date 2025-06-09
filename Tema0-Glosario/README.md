@@ -36,7 +36,7 @@ En esta sección se va a recopilar las palabras o conceptos que te puedas encont
   - Funciones puras (misma entrada → misma salida).
   - Inmutabilidad (no cambiar datos existentes).
 
-Ejemplos: Haskell, Erlang, Scala.
+> Ejemplos: Haskell, Erlang, Scala.
 
 <br>
 
