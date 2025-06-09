@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="align: center;">
 
 [◄ Tema anterior: Introducción a Python](../Tema1/) 
 
