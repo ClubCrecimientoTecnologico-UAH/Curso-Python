@@ -1,4 +1,4 @@
-<div style="display: flex; justify-content: center;">
+<div style="text-align: center;">
 
 [◄ Tema anterior: Introducción a Python](../Tema1/) 
 
