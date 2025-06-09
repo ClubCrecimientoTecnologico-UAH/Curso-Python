@@ -1,16 +1,23 @@
+<div style="text-align: center;">
+
+[◄ Tema anterior: Introducción a Python](../Tema1/) 
+
+</div>
+
+---
+
 # LENGUAJES DE PROGRAMACIÓN, SINTAXIS Y PYTHON 🐍
 1. [INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN](#introducción-a-los-lenguajes-de-programación)
    - 1.1 [Código Binario](#código-binario)
    - 1.2 [Lenguajes de Programación](#lenguajes-de-programación)
-
 2. [LENGUAJE DE PROGRAMACIÓN PYTHON](#lenguaje-de-programación-python)
    - 2.1 [Entornos de desarrollo Python](#entornos-de-desarrollo-python)
    - 2.2 [Sintaxis de Python](#sintaxis-de-python)
-
 3. [DIFERENCIAS CON OTROS LENGUAJES](#diferencias-con-otros-lenguajes)
    - 3.1 [Bloques de código](#bloques-de-código)
    - 3.2 [Fin de una instrucción](#fin-de-una-instrucción)
    - 3.3 [Declaración de variables](#declaración-de-variables)
+
 ---
 
 # INTRODUCCIÓN A LOS LENGUAJES DE PROGRAMACIÓN
@@ -249,3 +256,10 @@ Python, por otro lado, es de tipado *dinámico* lo que significa que infiere el 
 nombre = "python"
 edad = 30
 ```
+---
+
+<div style="text-align: center;">
+
+[◄ Tema anterior: Introducción a Python](../Tema1/) | [Siguiente tema: El primer programa en Python ►](../Tema3/)
+
+</div>

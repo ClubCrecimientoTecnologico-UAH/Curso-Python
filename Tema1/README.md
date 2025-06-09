@@ -3,6 +3,7 @@
 2. [¿Para qué se usa?](#para-qué-se-usa)
 3. [¿Por qué Python?](#por-qué-python)
 4. [Como instalar Python](#como-instalar-python)
+
 ---
 
 # ¿Qué es?
@@ -183,7 +184,13 @@ PS C:\Users\usuario 1> python --version
 Python 3.12.6
 ```
 
+---
 
+<div style="text-align: center;">
+
+[Siguiente tema: Lenguajes de programación, sintaxis y python ►](../Tema2/)
+
+</div>
 
 
 

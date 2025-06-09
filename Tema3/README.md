@@ -1,9 +1,18 @@
+<div style="text-align: center;">
+
+[◄ Tema anterior: Lenguajes de programación, sintaxis y python](../Tema2/) 
+
+</div>
+
+---
+
 # EL PRIMER PROGAMA EN PYTHON 🐍
 1. [ESCRIBIENDO EL PRIMER PROGRAMA](#escribiendo-el-primer-programa)
 2. [INICIANDO EN VISUAL STUDIO CODE](#iniciando-en-visual-studio-code)
    - 2.1 [Instalación de Visual Studio Code](#instalación-de-visual-studio-code)
 3. [EL PRIMER HOLA MUNDO](#el-primer-hola-mundo)
 4. [¿QUÉ SE PUEDE HACER AHORA?](#qué-se-puede-hacer-ahora)
+
 ---
 
 # ESCRIBIENDO EL PRIMER PROGRAMA
@@ -116,3 +125,10 @@ Ahora que puedes ejecutar código Python puedes probar todo lo mostrado en el [t
   -  **dir()**: Devuelve una lista de los atributos y métodos de un objeto.
   -  **id()**: Devuelve el identificador único de un objeto.
 
+---
+
+<div style="text-align: center;">
+
+[◄ Tema anterior: Lenguajes de programación, sintaxis y python](../Tema2/) | [Siguiente tema: Programando en Python ►](../Tema4/)
+
+</div>
