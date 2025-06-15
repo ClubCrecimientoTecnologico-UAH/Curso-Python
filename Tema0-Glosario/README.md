@@ -24,7 +24,7 @@ En esta sección se va a recopilar las palabras o conceptos que te puedas encont
   - Herencia (reutilizar código entre clases).
   - Polimorfismo (mismo método, comportamientos distintos).
 
-Ejemplos: Java, C#, Python.
+> Ejemplos: Java, C#, Python.
 
 <br>
 
@@ -36,7 +36,7 @@ Ejemplos: Java, C#, Python.
   - Funciones puras (misma entrada → misma salida).
   - Inmutabilidad (no cambiar datos existentes).
 
-Ejemplos: Haskell, Erlang, Scala.
+> Ejemplos: Haskell, Erlang, Scala.
 
 <br>
 
