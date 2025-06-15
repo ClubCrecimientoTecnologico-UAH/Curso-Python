@@ -13,6 +13,7 @@ Una ruta de aprendizaje estructurada en temas progresivos, diseñada para:
 - [Tema 2](./Tema2/): Lenguajes de programación, sintaxis y Python
 - [Tema 3](./Tema3/): El primer programa en Python
 - [Tema 4](./Tema4/): Errores en Python
+- [Tema 5](./Tema5/): Funciones, condicionales y bucles
 
 ---
 

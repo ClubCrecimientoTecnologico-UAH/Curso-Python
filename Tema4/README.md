@@ -8,12 +8,12 @@
 
 # ERRORES EN PYTHON 🐍
 1. [COMO IDENTIFICAR ERRORES](#como-identificar-errores)
-	- [1.1 ERRORES DE SINTAXIS](#11-errores-de-sintaxis)
-	- [1.2 ERRORES EN TIEMPO DE EJECUCIÓN](#12-errores-en-tiempo-de-ejecución)
-	- [1.3 ERRORES LÓGICOS](#13-errores-lógicos)
-	- [1.4 ERRORES CONTROLADOS](#14-errores-controlados)
-		- [1.4.1 Método 1: Validación mediante lógica](#método-1-validación-mediante-lógica)
-		- [1.4.2 Método 2: Bloques `try-except`](#método-2-bloques-try-except)
+	- 1.1 [ERRORES DE SINTAXIS](#11-errores-de-sintaxis)
+	- 1.2 [ERRORES EN TIEMPO DE EJECUCIÓN](#12-errores-en-tiempo-de-ejecución)
+	- 1.3 [ERRORES LÓGICOS](#13-errores-lógicos)
+	- 1.4 [ERRORES CONTROLADOS](#14-errores-controlados)
+		- 1.4.1 [Método 1: Validación mediante lógica](#método-1-validación-mediante-lógica)
+		- 1.4.2 [Método 2: Bloques `try-except`](#método-2-bloques-try-except)
 
 ---
 
@@ -134,12 +134,12 @@ except Exception as err:
 
 > Nota para principiantes: Estos ejemplos utilizan conceptos avanzados que se explicarán más adelante. Por ahora, enfócate en manejar errores mediante lógica y evita usar try-except hasta que dominemos los fundamentos.
 
-Ahora, para practicar puedas tratar de resolver el [código que dejamos en la carpeta codigo](./codigo/ejercicio.py) antes de avanzar a la siguiente sección.
+Ahora, para practicar puedas tratar de resolver el [código que dejamos en la carpeta ejercicio](./ejercicio/ejercicio.py) antes de avanzar a la siguiente sección.
 
 ---
 
 <div style="text-align: center;">
 
-[◄ Tema anterior: El primer prgrama en Python](../Tema3/) | [Siguiente tema: Programando en Python ►](../Tema4/)
+[◄ Tema anterior: El primer prgrama en Python](../Tema3/) | [Siguiente tema: Funciones, condicionales y bucles ►](../Tema5/)
 
 </div>
