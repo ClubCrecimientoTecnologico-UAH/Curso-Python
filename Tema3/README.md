@@ -129,6 +129,6 @@ Ahora que puedes ejecutar código Python puedes probar todo lo mostrado en el [t
 
 <div style="text-align: center;">
 
-[◄ Tema anterior: Lenguajes de programación, sintaxis y python](../Tema2/) | [Siguiente tema: Programando en Python ►](../Tema4/)
+[◄ Tema anterior: Lenguajes de programación, sintaxis y python](../Tema2/) | [Siguiente tema: Errores en Python ►](../Tema4/)
 
 </div>
