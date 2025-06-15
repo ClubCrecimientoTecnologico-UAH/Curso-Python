@@ -66,3 +66,18 @@ int x = 10; // Siempre será un número entero
   
 <br>
 
+- ***API (Application Programming Interface):*** Interfaz de Programación de Aplicaciones: Conjunto de reglas y protocolos que permite que diferentes sistemas o componentes de software se comuniquen entre sí.
+  - Función: Actúa como intermediario, permitiendo que una aplicación solicite 
+  - servicios o datos a otra sin necesidad de conocer su implementación interna.
+  - Ejemplos comunes:
+    - APIs web (como Twitter API o Google Maps API).
+    - APIs de sistema operativo (para interactuar con hardware).
+    - Analogía: "Es como un menú en un restaurante: defines qué pedir (solicitud) y recibes el plato (respuesta), sin entrar a la cocina".
+
+<br>
+
+- ***Hilo de ejecución (Thread):*** Unidad básica de ejecución dentro de un proceso, que permite realizar múltiples tareas concurrentemente en un programa.
+  - **Características clave:**
+    - Todo programa tiene al menos un hilo principal (main thread).
+    - Los hilos comparten memoria y recursos del proceso padre.
+  - **Diferencia con procesos:** Los procesos son independientes (no comparten memoria), los hilos son "subprocesos" ligeros dentro de un mismo proceso.
