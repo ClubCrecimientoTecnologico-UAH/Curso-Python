@@ -2,10 +2,10 @@
 ¡Aprende Python desde fundamentos hasta conceptos avanzados con esta guía práctica y llena de ejemplos!
 
 📌 **¿Qué encontrarás aquí?**
-Una ruta de aprendizaje estructurada en temas progresivos, diseñada para:
-✔ Principiantes absolutos (sin experiencia previa en programación).
-✔ Autodidactas que buscan un material claro y con ejercicios.
-✔ Profesores que necesitan recursos para sus clases.
+Una ruta de aprendizaje estructurada en temas progresivos, diseñada para:<br>
+✔ Principiantes absolutos (sin experiencia previa en programación).<br>
+✔ Autodidactas que buscan un material claro y con ejercicios.<br>
+✔ Profesores que necesitan recursos para sus clases.<br>
 
 ## Básico
 - [Tema 0](./Tema0-Glosario/): Glosario
